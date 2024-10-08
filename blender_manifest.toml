@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
 id = "ffxiv_weights"
-version = "1.0.0"
+version = "0.1.0"
 name = "FFXIV Mod Weight Normalizer"
 tagline = "Automates the steps to set weights after transfer on a mod for FFXIV."
 maintainer = "Remy Ward <remyward@protonmail.com>"
